@@ -1,0 +1,14 @@
+{
+  "myDogResearch": [
+    {
+      "breed": "affenpinscher GOOD",
+      "note": "This breed is good",
+      "id": 1
+    },
+    {
+      "breed": "akita",
+      "note": "This breed is bad",
+      "id": 2
+    }
+  ]
+}
